@@ -17,10 +17,10 @@ xamarin接入高德地图sdk示例，其中包含地图展示等基本功能
 
 	**右击工程名称-->添加-->添加现有项目 操作步骤和效果如图所示**
 	
-	 <img src="./images/add_lib.png" width = "30%" height = "30%"  align=center />
-
+	<img src="./images/add_lib.png" width = "35%" height = "35%"  align=center />
+	
 	<img src="./images/add_lib_result.png" width = "30%" height = "30%"  align=center />
-
+	
 
 4. 引用项目
 	**右击工程中引用-->编辑引用-->勾选AMapSDK**
@@ -28,13 +28,13 @@ xamarin接入高德地图sdk示例，其中包含地图展示等基本功能
 	<img src="./images/add_reference01.png" width = "30%" height = "30%"  align=center />
 
 
-	<img src="./images/add_reference02.png" width = "30%" height = "30%"  align=center />
+	<img src="./images/add_reference02.png" width = "35%" height = "35%"  align=center />
 
 
 5. 编译写代码并运行
 
 
-	<img src="./images/call_mapview.png" width = "30%" height = "30%"  align=center />
+	<img src="./images/call_mapview.png" width = "80%" height = "80%"  align=center />
 
 
 	<img src="./images/show_mapview.png" width = "30%" height = "30%"  align=center />
